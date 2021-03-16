@@ -1,4 +1,4 @@
-# Calculate with style
+# Calculate with style. 🧮
 
 I build a basic calculator from the ground up using the library React. 
 
